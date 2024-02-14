@@ -13,7 +13,7 @@
 - 2022.09 한양대학교 보안 동아리 ICEWALL 입부
 - 2023.09 한양대학교 게임 개발 동아리 OOPARTS 입부
 - 2023.10 ~ 2023.11 우아한테크코스 프리코스 참여
-- 2023.12 한양대학교 프로그래밍 경시대회(HCPC) Advanced division 참여(3 solved)
+- 2023.12 한양대학교 프로그래밍 경시대회(HCPC) Advanced division 참가
 
 <br><br><br>
 
